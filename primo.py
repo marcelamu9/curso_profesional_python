@@ -1,5 +1,5 @@
 def esprimo(n: int)-> bool:
-    cantidad = 0
+  #  cantidad = 0
     if n <= 1: return False
     if n == 2: return True
  #   if n == 3: return True
